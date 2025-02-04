@@ -68,5 +68,5 @@ If you would like to contribute, feel free to fork the repository and submit a p
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries or issues, feel free to reach out at [your-email@example.com].
+For any inquiries or issues, feel free to reach out at priyanshupatel3357@gmail.com.
 
